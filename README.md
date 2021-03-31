@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[![allanpreis's github stats](https://github-readme-stats.vercel.app/api?username=allanpreis "![allanpreis's github stats")](https://github.com/allanpreis/github-readme-stats)
+[![allanpreis's github stats](https://github-readme-stats.vercel.app/api?username=allanpreis&theme=nord&show_icons=true "![allanpreis's github stats")](https://github.com/allanpreis/github-readme-stats)
 
 ### My Top Languages to code
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allanpreis&layout=compact)](https://github.com/allanpreis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allanpreis&layout=compact&theme=nord)](https://github.com/allanpreis/github-readme-stats)
 
 Here are some ideas to get you started:
 
