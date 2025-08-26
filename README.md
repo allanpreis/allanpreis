@@ -35,8 +35,6 @@ Here are some ideas to get you started:
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:allanpreis31@gmail.com)](mailto:allanpreis31@gmail.com)
 
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 
 
 
