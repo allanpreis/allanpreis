@@ -1,42 +1,73 @@
-### Hi there 👋
+<div align="center">
 
-[![allanpreis's github stats](https://github-readme-stats.vercel.app/api?username=allanpreis&theme=nord&show_icons=true "![allanpreis's github stats")](https://github.com/allanpreis/github-readme-stats)
+# Allan Reis
 
-### My Top Languages to code
+**Desenvolvimento · Design · Experimentos com IA**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allanpreis&layout=compact&theme=nord)](https://github.com/allanpreis/github-readme-stats)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=60&lines=Ideias+ganham+forma+com+c%C3%B3digo.;Interfaces+com+aten%C3%A7%C3%A3o+aos+detalhes.;Sempre+aprendendo.+Sempre+experimentando." alt="Ideias ganham forma com código. Interfaces com atenção aos detalhes. Sempre aprendendo e experimentando." width="640" />
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/allan-reis/)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allanpreis31@gmail.com)
+[![Projetos](https://img.shields.io/badge/Projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allanpreis?tab=repositories)
 
-- 🌱 I am currently learning: 
+</div>
 
-  ![HTML Badge](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-  ![JavaScript Badge](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![CSS Badge](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-  ![Bootstrap Badge](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Python Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-  ![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-  ![Git Badge](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-  ![Oracle Badge](https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
-  ![Github Badge](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-  ![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-  ![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+---
 
-- 💻 Graphic knowledge for UX/UI:
+## Olá, eu sou o Allan 👋
 
-  ![Adobe Illustrato Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-  ![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
-  ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+Gosto de conectar desenvolvimento e design para transformar ideias em ferramentas úteis. Por aqui compartilho projetos, estudos e experiências — de aplicativos nativos para macOS a interfaces para trabalhar com agentes de IA.
 
-- 📫 How to reach me:
+**Meu foco:** criar, experimentar e melhorar a experiência de quem usa.
 
-  [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-reis-997b82171/)](https://www.linkedin.com/in/allan-reis-997b82171/)
-  [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511999434808&text=Hello!)](https://api.whatsapp.com/send?phone=5511945584838&text=Hello!)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:allanpreis31@gmail.com)](mailto:allanpreis31@gmail.com)
+## Projetos em destaque
 
+| Projeto | O que você encontra | Tecnologias |
+| :--- | :--- | :--- |
+| [**📸 Ponte Fotos**](https://github.com/allanpreis/ponte-fotos) | App nativo para transferir originais entre Fotos da Apple e Immich, revisar metadados e organizar a biblioteca. | Swift · macOS |
+| [**🏢 Firma**](https://github.com/allanpreis/firma) | Escritório pixel art local para acompanhar agentes de IA e conversar com o Codex, com histórico e anexos. | JavaScript · IA |
 
+[Explorar todos os repositórios →](https://github.com/allanpreis?tab=repositories)
 
+## Caixa de ferramentas
 
+Tecnologias e ferramentas presentes nos meus projetos, estudos e experiências.
 
+**Desenvolvimento**
 
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
+**Dados & versionamento**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-C74634?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=flat-square&logo=couchbase&logoColor=white)
+![Azure Cosmos DB](https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=flat-square)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Design & criação**
+
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square)
+
+---
+
+<div align="center">
+
+**Uma ideia interessante ou um projeto em comum?**
+
+[Vamos conversar pelo LinkedIn](https://www.linkedin.com/in/allan-reis/) · [Envie um e-mail](mailto:allanpreis31@gmail.com)
+
+</div>
