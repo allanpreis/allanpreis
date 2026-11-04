@@ -44,7 +44,7 @@ Tecnologias e ferramentas presentes nos meus projetos, estudos e experiências.
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Dados & versionamento**
+**Bancos de dados**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-C74634?style=flat-square)
@@ -53,6 +53,9 @@ Tecnologias e ferramentas presentes nos meus projetos, estudos e experiências.
 ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=flat-square&logo=couchbase&logoColor=white)
 ![Azure Cosmos DB](https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=flat-square)
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square)
+
+**Versionamento**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
