@@ -20,13 +20,6 @@ Gosto de conectar desenvolvimento e design para transformar ideias em ferramenta
 
 **Meu foco:** criar, experimentar e melhorar a experiência de quem usa.
 
-## Projetos em destaque
-
-| Projeto | O que você encontra | Tecnologias |
-| :--- | :--- | :--- |
-| [**📸 Ponte Fotos**](https://github.com/allanpreis/ponte-fotos) | App nativo para transferir originais entre Fotos da Apple e Immich, revisar metadados e organizar a biblioteca. | Swift · macOS |
-| [**🏢 Firma**](https://github.com/allanpreis/firma) | Escritório pixel art local para acompanhar agentes de IA e conversar com o Codex, com histórico e anexos. | JavaScript · IA |
-
 [Explorar todos os repositórios →](https://github.com/allanpreis?tab=repositories)
 
 ## Caixa de ferramentas
